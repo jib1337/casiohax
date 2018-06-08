@@ -5,7 +5,7 @@ of time working out where applicable.
 
 MOD - Find the least residule of a number given it's MOD value.
 
-REMAIN - Divide a number by another, and recieve it's total disvisible amount 
+REMAIN - Divide a number by another, and recieve it's total divisible amount 
 		 and remainder left over.
 
 VENN - Aids in the solution of 3-circle venn diagram problems.
@@ -19,7 +19,7 @@ units in other computer science courses.
 -----------------------------------------------------------------------------------------------------
 MOD Program notes:
 
-Made for quicker calculation of least redisule values.
+Made for quicker calculation of least residule values.
 
 - Asks for a number, and then asks for it's MOD value.
 
