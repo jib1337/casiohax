@@ -1,4 +1,4 @@
-Casio BASIC Programs - MOD, REMAIN & VENN
+Casio BASIC Programs - MOD, REMAIN & VENN - Jack Nelson
 
 Simple programs, not really doing anything particulary groundbreaking, just meant to save a bit
 of time working out where applicable.
@@ -23,6 +23,7 @@ Made for quicker calculation of least redisule values.
 -Asks for a number, and then asks for it's MOD value.
 -Returns least residule value.
 
+-----------------------------------------------------------------------------------------------------
 REMAIN Program notes:
 Made for use in manually working out conversion between certain number systems (eg. Dec -> Hex)
 
@@ -33,6 +34,7 @@ a fraction)
 takes place.
 -Finally, the program asks if you would like to divide another number. 1 for yes, 0 for no.
 
+-----------------------------------------------------------------------------------------------------
 VENN Program notes:
 Made for quicker solving of 3-circle venn diagram problems.
 
