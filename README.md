@@ -1,23 +1,18 @@
-Casio BASIC Programs - MOD, REMAIN & VENN - Jack Nelson
+# Casio BASIC Programs - MOD, REMAIN & VENN | Jack Nelson, 2018
 
 Simple programs, not really doing anything particulary groundbreaking, just meant to save a bit
 of time working out where applicable.
 
-MOD - Find the least residule of a number given it's MOD value.
+* MOD - Find the least residule of a number given it's MOD value.
+* REMAIN - Divide a number by another, and recieve it's total divisible amount and remainder left over.
+* VENN - Aids in the solution of 3-circle venn diagram problems.
 
-REMAIN - Divide a number by another, and recieve it's total divisible amount 
-		 and remainder left over.
-
-VENN - Aids in the solution of 3-circle venn diagram problems.
-
------------------------------------------------------------------------------------------------------
-Background: 
+## Background
 
 Developed for use in ECU's computer fundamentals unit, may also be of use for similar maths-based 
 units in other computer science courses.
 
------------------------------------------------------------------------------------------------------
-MOD Program notes:
+## MOD Program notes
 
 Made for quicker calculation of least residule values.
 
@@ -25,9 +20,7 @@ Made for quicker calculation of least residule values.
 
 - Returns least residule value.
 
-
------------------------------------------------------------------------------------------------------
-REMAIN Program notes:
+## REMAIN Program notes
 
 Made for use in manually working out conversion between certain number systems (eg. Dec -> Hex)
 
@@ -41,9 +34,7 @@ takes place.
 
 - Finally, the program asks if you would like to divide another number. 1 for yes, 0 for no.
 
-
------------------------------------------------------------------------------------------------------
-VENN Program notes:
+## VENN Program notes
 
 Made for quicker solving of 3-circle venn diagram problems.
 
