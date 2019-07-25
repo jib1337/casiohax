@@ -15,14 +15,12 @@ units in other computer science courses.
 ### MOD Program notes
 
 Made for quicker calculation of least residule values.
-
 - Asks for a number, and then asks for it's MOD value.
 - Returns least residule value.
 
 ### REMAIN Program notes
 
 Made for use in manually working out conversion between certain number systems (eg. Dec -> Hex)
-
 - Asks for a number, and then asks for a value to divide the number by.
 - The program then first returns the number of times the number can be divided (without ending up with
 a fraction)
@@ -35,7 +33,6 @@ takes place.
 Made for quicker solving of 3-circle venn diagram problems.
 
 The program labels your circles as A,B,C.
-
 - Inputs in order:
 	1. Universe amount
 	2. Amount outside circles
