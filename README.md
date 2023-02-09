@@ -1,4 +1,4 @@
-## Casio BASIC Programs - MOD, REMAIN & VENN | Jack Nelson, 2018
+## Casio BASIC Programs - MOD, REMAIN & VENN
 
 Simple programs, not really doing anything particulary groundbreaking, just meant to save a bit
 of time working out where applicable.
